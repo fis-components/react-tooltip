@@ -1,0 +1,17 @@
+{
+    "name": "react-tooltip",
+    "description": "react tooltip component",
+    "repos": "https://github.com/wwayne/react-tooltip.git",
+    "main": "react-tooltip",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "classnames": "^1.2.0",
+        "react": ">=0.14.0",
+        "react-dom": "0.14.*"
+    },
+    "paths": {
+        "dist": "."
+    },
+    "version": "1.1.0"
+}
